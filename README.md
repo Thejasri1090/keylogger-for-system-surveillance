@@ -87,6 +87,61 @@ The keylogger will start capturing keystrokes and sending them via email once th
 - Security: The script does not encrypt the captured keystrokes. This is for educational purposes, and storing sensitive information like passwords in plain text is unsafe.
 - Stopping the Keylogger: The keylogger will stop when the Esc key is pressed.
 
+## Code Screenshots
+
+Here are some key parts of the code:
+
+### Code Screenshot 1
+![Code Screenshot 1]([screenshots/code-screenshot1.png](https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/code_screenshot1.png))
+
+### Code Screenshot 2
+![Code Screenshot 2](screenshots/code-screenshot2.png)
+
+## Execution Screenshots
+
+The following are screenshots from the program's execution:
+
+### Execution Screenshot 1
+![Execution Screenshot 1](screenshots/execution-screenshot1.png)
+
+### Execution Screenshot 2
+![Execution Screenshot 2](screenshots/execution-screenshot2.png)
+
+## Output Screenshots
+
+Here are some output screenshots from the program:
+
+### Output Screenshot 1
+![Output Screenshot 1](screenshots/output-screenshot1.png)
+
+### Output Screenshot 2
+![Output Screenshot 2](screenshots/output-screenshot2.png)
+
+### Output Screenshot 3
+![Output Screenshot 3](screenshots/output-screenshot3.png)
+
+## Email Screenshots
+
+These screenshots show the emails sent by the keylogger:
+
+### Email Screenshot 1
+![Email Screenshot 1](screenshots/email-screenshot1.png)
+
+### Email Screenshot 2
+![Email Screenshot 2](screenshots/email-screenshot2.png)
+
+### Email Screenshot 3
+![Email Screenshot 3](screenshots/email-screenshot3.png)
+
+### Email Screenshot 4
+![Email Screenshot 4](screenshots/email-screenshot4.png)
+
+## Architecture Diagram
+
+Here is the architecture diagram of the keylogger system:
+
+![Architecture Diagram](screenshots/architecture-diagram.png)
+
 ## Ethical Considerations
 
 It is essential to understand the ethical implications of using keyloggers:
