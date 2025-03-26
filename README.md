@@ -78,6 +78,7 @@ Replace your_email@gmail.com and your_password with your actual email and passwo
 
 - Run the script:
 python keylogger.py
+
 The keylogger will start capturing keystrokes and sending them via email once the threshold is met.
 
 ## Important Notes
@@ -92,4 +93,5 @@ It is essential to understand the ethical implications of using keyloggers:
 
 - Authorization: Always obtain permission from the target before deploying a keylogger.
 - Privacy: Keyloggers should not be used to invade the privacy of individuals without consent.
+
 This project is intended for educational purposes and cybersecurity research. It should not be used for malicious or illegal activities.
