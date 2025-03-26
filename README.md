@@ -21,10 +21,6 @@ Before using the KeyLogger, you need to install the following Python libraries:
 - `pynput`: For listening to keyboard events.
 - `smtplib`: For sending emails via SMTP.
 
-You can install the required libraries using pip:
-
-```bash
-pip install pynput
 
 How It Works
 
