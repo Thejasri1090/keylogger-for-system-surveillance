@@ -92,55 +92,55 @@ The keylogger will start capturing keystrokes and sending them via email once th
 Here are some key parts of the code:
 
 ### Code Screenshot 1
-(https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/code_screenshot1.png)
+https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/code_screenshot1.png
 
 ### Code Screenshot 2
-![Code Screenshot 2](screenshots/code-screenshot2.png)
+https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/code_screenshot2.png
 
 ## Execution Screenshots
 
 The following are screenshots from the program's execution:
 
 ### Execution Screenshot 1
-![Execution Screenshot 1](screenshots/execution-screenshot1.png)
+https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/execution_screenshot1.png
 
 ### Execution Screenshot 2
-![Execution Screenshot 2](screenshots/execution-screenshot2.png)
+https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/execution_screenshot2.png
 
 ## Output Screenshots
 
 Here are some output screenshots from the program:
 
 ### Output Screenshot 1
-![Output Screenshot 1](screenshots/output-screenshot1.png)
+https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/output_screenshot1.png
 
 ### Output Screenshot 2
-![Output Screenshot 2](screenshots/output-screenshot2.png)
+https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/output_screenshot2.png
 
 ### Output Screenshot 3
-![Output Screenshot 3](screenshots/output-screenshot3.png)
+https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/output_screenshot3.png
 
 ## Email Screenshots
 
 These screenshots show the emails sent by the keylogger:
 
 ### Email Screenshot 1
-![Email Screenshot 1](screenshots/email-screenshot1.png)
+https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/email_screenshot1.png
 
 ### Email Screenshot 2
-![Email Screenshot 2](screenshots/email-screenshot2.png)
+https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/email_screenshot2.png
 
 ### Email Screenshot 3
-![Email Screenshot 3](screenshots/email-screenshot3.png)
+https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/email_screenshot3.png
 
 ### Email Screenshot 4
-![Email Screenshot 4](screenshots/email-screenshot4.png)
+https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/email_screenshot4.png
 
 ## Architecture Diagram
 
 Here is the architecture diagram of the keylogger system:
 
-![Architecture Diagram](screenshots/architecture-diagram.png)
+https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/architecture_diagram.png
 
 ## Ethical Considerations
 
