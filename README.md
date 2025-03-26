@@ -92,7 +92,7 @@ The keylogger will start capturing keystrokes and sending them via email once th
 Here are some key parts of the code:
 
 ### Code Screenshot 1
-![Code Screenshot 1]([screenshots/code-screenshot1.png](https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/code_screenshot1.png))
+(https://github.com/Thejasri1090/keylogger-for-system-surveillance/blob/main/images/code_screenshot1.png)
 
 ### Code Screenshot 2
 ![Code Screenshot 2](screenshots/code-screenshot2.png)
