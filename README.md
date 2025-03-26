@@ -24,14 +24,14 @@ Before using the KeyLogger, you need to install the following Python libraries:
 
 ## How It Works
 
- **1. Keystroke Logging**
+ - **1. Keystroke Logging**
 The keylogger listens for keystroke events using the pynput library.
 It records every key press, including special keys like Space, Esc, etc., and stores the pressed keys in a log.
- **2. Email Reports**
+ - **2. Email Reports**
 The keylogger will send the collected keystrokes to a designated email account once the number of keystrokes exceeds the predefined threshold (default is 100).
 The log is sent via SMTP (email service provider: Gmail).
 After sending the email, the log is cleared, and the keystroke counter resets.
- **3. Customizable Time Interval**
+ - **3. Customizable Time Interval**
 The program runs indefinitely and can send reports periodically based on a time interval (default is 30 seconds).
 You can modify the time interval and other settings in the code.
 
